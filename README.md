@@ -26,7 +26,7 @@ so_long/
 │       └── Emil/          # Enemy sprites (up/down × 2 frames)
 ├── lib/
 │   ├── libft/             # Custom C library
-│   └── minilibx-linux/    # MiniLibX — X11 graphics library
+├── minilibx-linux/        # MiniLibX — X11 graphics library
 └── Makefile
 ```
 
